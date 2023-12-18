@@ -1,1 +1,1 @@
-Create a portfolio and deploy it on remote server
+Create a portfolio and deploy it on remote server.
