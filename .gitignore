@@ -4,4 +4,4 @@ node_modules/
 Files : 
 package-lock.json
 package.json
-tailwind.config.json
+tailwind.config.js
