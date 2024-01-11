@@ -2,8 +2,7 @@
 window.addEventListener('load', () => {
 
     // Array of colors in hex format
-    const colorArray = ["0C005A", "070A52", "000272", "17B978", "082032", "A7FF83"];
-
+    const colorArray = ["5800FF","5800FF", "333fff", "005bff", "006fff", "006fff"];
     // Set the initial background color of the body
     document.body.style.backgroundColor = `#${colorArray[0]}`;
 
