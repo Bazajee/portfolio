@@ -773,6 +773,18 @@ video {
     width: 33.333333%;
   }
 
+  .sm\:w-3\/6 {
+    width: 50%;
+  }
+
+  .sm\:w-1\/6 {
+    width: 16.666667%;
+  }
+
+  .sm\:w-5\/6 {
+    width: 83.333333%;
+  }
+
   .sm\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
@@ -835,6 +847,10 @@ video {
 
   .md\:w-4\/5 {
     width: 80%;
+  }
+
+  .md\:w-40 {
+    width: 10rem;
   }
 
   .md\:flex-nowrap {
