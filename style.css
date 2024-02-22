@@ -664,16 +664,6 @@ video {
   animation: bounce 1s infinite;
 }
 
-@keyframes pulse {
-  50% {
-    opacity: .5;
-  }
-}
-
-.animate-pulse {
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}
-
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -773,10 +763,6 @@ video {
     width: 33.333333%;
   }
 
-  .sm\:w-3\/6 {
-    width: 50%;
-  }
-
   .sm\:w-1\/6 {
     width: 16.666667%;
   }
@@ -847,10 +833,6 @@ video {
 
   .md\:w-4\/5 {
     width: 80%;
-  }
-
-  .md\:w-40 {
-    width: 10rem;
   }
 
   .md\:flex-nowrap {
