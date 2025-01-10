@@ -3,7 +3,7 @@
 }
 .hoverBorder {
 border-left: 4px solid transparent; /* No visible border initially */
-transition: border-color 0.3s ease; /* Smooth transition */
+transition: border-color 0.9s ease; /* Smooth transition */
 }
 
 .hoverBorder:hover {
