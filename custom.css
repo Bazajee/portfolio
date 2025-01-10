@@ -1,3 +1,12 @@
 .courrierFont {
     font-family: 'Courier New', Courier, monospace;
 }
+.hoverBorder {
+border-left: 4px solid transparent; /* No visible border initially */
+transition: border-color 0.3s ease; /* Smooth transition */
+}
+
+.hoverBorder:hover {
+border-left:4px solid ;
+border-left-color: white ; /* Change the border color to white on hover */
+}
